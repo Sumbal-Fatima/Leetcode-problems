@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -51,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sumbal-Fatima/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
